@@ -3,7 +3,7 @@
 
   "name": "WaniKani reading ability checker",
   "description": "This extension shows what WaniKani level you need to be to read the page you are currently viewing.",
-  "version": "0.1",
+  "version": "0.1.1",
 
   "browser_action": {
     "default_icon": "icon.png",
